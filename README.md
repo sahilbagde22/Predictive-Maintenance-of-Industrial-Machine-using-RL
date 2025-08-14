@@ -40,8 +40,3 @@ By leveraging historical sensor data, the model predicts potential equipment fai
 - High recall for failure detection, ensuring minimal false negatives.
 - Balanced precision-recall tradeoff to optimize maintenance cost vs. downtime.
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/predictive-maintenance-industrial-ml.git
-   cd predictive-maintenance-industrial-ml
